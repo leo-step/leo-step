@@ -13,7 +13,7 @@
 
 #### BIO
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=leo-step&show_icons=true&layout=compact&hide_border=true&theme=dark" height = 200>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=leo-step&hide_border=true&theme=dark" height = 200>
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=leo-step&show_icons=true&layout=compact&hide_border=true&theme=dark" height = 150>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=leo-step&hide_border=true&theme=dark" height = 150>
 </p>
