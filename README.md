@@ -12,6 +12,13 @@
 - 🛠️ Co-Director of Development at [Princeton ResInDe](https://www.princetonresinde.com/)
 
 #### BIO
+- 🧠 Interested in machine learning & AI
+- 🔬 Independent research student at the [NYU AI4CE lab](https://ai4ce.github.io/) for 3 years
+- 🏆 Member of the champion team in the 2021 MathWorks Math Modeling Challenge ([paper](https://m3challenge.siam.org/sites/default/files/uploads/CHAMPION_14817.pdf))
+- 📐 Alumnus of the NJ Governor's School of Engineering and Technology ([paper](https://ieeexplore.ieee.org/document/9668909))
+- 🐯 Won the $1000 “Best TigerApp” prize at HackPrinceton Spring 2022 ([devpost](https://devpost.com/software/tigermap))
+
+#### STATS
 
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=leo-step&show_icons=true&layout=compact&hide_border=true&theme=dark" height = 150>
