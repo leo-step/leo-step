@@ -8,7 +8,7 @@
 
 #### CURRENTLY
 - 🖥️ Software engineering intern at [TrueToForm](https://www.truetoform.fit/)
-- 📚 Student at Princeton University (COS '25)
+- 🎓 Student at Princeton University (COS '25)
 - 🛠️ Co-Director of Development at [Princeton ResInDe](https://www.princetonresinde.com/)
 
 #### BIO
