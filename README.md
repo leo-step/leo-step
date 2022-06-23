@@ -1,7 +1,8 @@
 <h3 align="center">Hey!👋 I'm Leo Stepanewk</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/leo-stepanewk/">LinkedIn</a> •
-  <a href="https://drive.google.com/file/d/1LZs1w_aUjLn-zlXmgo6OTp5L4ZyHk_nC/view?usp=sharing">Resume</a>
+  <a href="https://drive.google.com/file/d/1LZs1w_aUjLn-zlXmgo6OTp5L4ZyHk_nC/view?usp=sharing">Resume</a> •
+  <a>Website</a>
 </p>
 
 ---
