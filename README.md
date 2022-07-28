@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/leo-stepanewk/">LinkedIn</a> •
   <a href="https://drive.google.com/file/d/1g1obP9fPtI1QF8xWS94kraIY_2SyV4pj/view?usp=sharing">Resume</a> •
-  <a>Website</a>
+  <a href="https://leostepanewk.com/">Website</a>
 </p>
 
 ---
