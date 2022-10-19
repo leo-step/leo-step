@@ -7,6 +7,8 @@
 
 ---
 
+I am an undergraduate student at Princeton University pursuing computer science with a focus on machine learning. As an aspiring entrepreneur, I strive to develop solutions at the intersection of cutting-edge technology and human needs.
+
 #### CURRENTLY
 - 🎓 Student at Princeton University (COS '25)
 - 🛠️ Co-Director of Development at [Princeton ResInDe](https://www.princetonresinde.com/)
