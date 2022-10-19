@@ -27,3 +27,12 @@ I am an undergraduate student at Princeton University pursuing computer science 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=leo-step&show_icons=true&layout=compact&hide_border=true&theme=dark" height = 150>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=leo-step&hide_border=true&theme=dark" height = 150>
 </p>
+
+#### LIVE PROJECTS
+| [TigerMap](https://tiger-map.herokuapp.com/)  | [TrueToForm](https://www.truetoform.fit/) |
+| ------------- | ------------- |
+| ![](tigermap.png)  | ![](truetoform.png)  |
+
+| [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)  | [ImprovFusion](https://improvfusion.herokuapp.com/) |
+| ------------- | ------------- |
+| ![](lcpatterns.png)  | ![](improvfusion.png)  |
