@@ -21,13 +21,6 @@ I am an undergraduate student at Princeton University pursuing computer science 
 - 📐 Alumnus of the NJ Governor's School of Engineering and Technology ([paper](https://ieeexplore.ieee.org/document/9668909))
 - 🐯 Won the $1000 “Best TigerApp” prize at HackPrinceton Spring 2022 ([devpost](https://devpost.com/software/tigermap))
 
-#### STATS
-
-<p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=leo-step&show_icons=true&layout=compact&hide_border=true&theme=dark" height = 150>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=leo-step&hide_border=true&theme=dark" height = 150>
-</p>
-
 #### LIVE PROJECTS
 | [TigerMap](https://tiger-map.herokuapp.com/)  | [TrueToForm](https://www.truetoform.fit/) |
 | ------------- | ------------- |
@@ -36,3 +29,12 @@ I am an undergraduate student at Princeton University pursuing computer science 
 | [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)  | [ImprovFusion](https://improvfusion.herokuapp.com/) |
 | ------------- | ------------- |
 | ![](lcpatterns.png)  | ![](improvfusion.png)  |
+
+#### STATS
+
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=leo-step&show_icons=true&layout=compact&hide_border=true&theme=dark" height = 150>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=leo-step&hide_border=true&theme=dark" height = 150>
+</p>
+
+
