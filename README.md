@@ -21,7 +21,7 @@ I am an undergraduate student at Princeton University pursuing computer science 
 - 📐 Alumnus of the NJ Governor's School of Engineering and Technology ([paper](https://ieeexplore.ieee.org/document/9668909))
 - 🐯 Won the $1000 “Best TigerApp” prize at HackPrinceton Spring 2022 ([devpost](https://devpost.com/software/tigermap))
 
-#### LIVE PROJECTS
+#### SHOWCASE
 | [TigerMap](https://tigermap.fly.dev/)  | [TrueToForm](https://www.truetoform.fit/) |
 | ------------- | ------------- |
 | ![](tigermap.png)  | ![](truetoform.png)  |
