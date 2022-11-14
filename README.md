@@ -26,7 +26,7 @@ I am an undergraduate student at Princeton University pursuing computer science 
 | ------------- | ------------- |
 | ![](tigermap.png)  | ![](truetoform.png)  |
 
-| [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)  | [Today @ Princeton](https://todayatprinceton.fly.dev/) |
+| [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)  | [Today @ Princeton](https://todayatprinceton.onrender.com/) |
 | ------------- | ------------- |
 | ![](lcpatterns.png)  | ![](today.png)  |
 
