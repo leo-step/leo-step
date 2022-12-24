@@ -17,6 +17,7 @@ I am an undergraduate student at Princeton University pursuing computer science 
 #### BIO
 - 🧠 Interested in machine learning & AI with experience in computer vision
 - 🛠️ Former Co-Director of Development at [Princeton ResInDe](https://www.princetonresinde.com/)
+- 👨‍💻 Second largest contributor to [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/), a popular coding interview prep website
 - 🖥️ Software engineering intern at [TrueToForm](https://www.truetoform.fit/) (Summer 2022)
 - 🔬 Independent research student at the [NYU AI4CE lab](https://ai4ce.github.io/) for 3 years
 - 🏆 Member of the champion team in the 2021 MathWorks Math Modeling Challenge ([paper](https://m3challenge.siam.org/sites/default/files/uploads/CHAMPION_14817.pdf))
