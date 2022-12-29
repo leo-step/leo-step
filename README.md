@@ -25,7 +25,7 @@ I am an undergraduate student at Princeton University pursuing computer science 
 - 🐯 Won the $1000 “Best TigerApp” prize at HackPrinceton Spring 2022 ([devpost](https://devpost.com/software/tigermap))
 
 #### SHOWCASE
-| [TigerMap](https://tigermap.fly.dev/)  | [TrueToForm](https://www.truetoform.fit/) |
+| [TigerMap](https://cos333tigermap.herokuapp.com/)  | [TrueToForm](https://www.truetoform.fit/) |
 | ------------- | ------------- |
 | ![](tigermap.png)  | ![](truetoform.png)  |
 
