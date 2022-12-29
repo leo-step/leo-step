@@ -12,7 +12,7 @@ I am an undergraduate student at Princeton University pursuing computer science 
 #### CURRENTLY
 - 🎓 Student at Princeton University (COS '25)
 - 🗞️ Building [Today @ Princeton](https://chrome.google.com/webstore/detail/today-princeton/iejdjhiphonjpgaobmpniifeipiomgee), a new tab page that gets students the daily information they need
-- 🗺️ Developing [TigerMap](https://tigermap.fly.dev/), the first course exploration and track creation web app
+- 🗺️ Developing [TigerMap](https://cos333tigermap.herokuapp.com/), the first course exploration and track creation web app
 
 #### BIO
 - 🧠 Interested in machine learning & AI with experience in computer vision
