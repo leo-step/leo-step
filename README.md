@@ -15,7 +15,7 @@ I am an undergraduate student at Princeton University pursuing computer science 
 - 🗺️ Developing [TigerMap](https://cos333tigermap.herokuapp.com/), the first course exploration and track creation web app
 
 #### BIO
-- 🧠 Interested in machine learning & AI with experience in computer vision
+- 🧠 Interested in blockchain and machine learning with experience in computer vision
 - 🛠️ Former Co-Director of Development at [Princeton ResInDe](https://www.princetonresinde.com/)
 - 👨‍💻 Second largest contributor to [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/), a popular coding interview prep website
 - 🖥️ Software engineering intern at [TrueToForm](https://www.truetoform.fit/) (Summer 2022)
