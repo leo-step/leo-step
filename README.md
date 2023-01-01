@@ -36,7 +36,7 @@ I am an undergraduate student at Princeton University pursuing computer science 
 #### STATS
 
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=leo-step&show_icons=true&layout=compact&hide_border=true&theme=dark" height = 150>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=leo-step&langs_count=6&exclude_repo=leostepanewk.com&hide=scss&show_icons=true&layout=compact&hide_border=true&theme=dark" height = 150>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=leo-step&hide_border=true&theme=dark" height = 150>
 </p>
 
