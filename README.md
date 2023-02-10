@@ -11,6 +11,8 @@ I am an undergraduate student at Princeton University pursuing computer science 
 
 #### CURRENTLY
 - 🎓 Student at Princeton University (COS '25)
+- 📊 Data science intern at [Coinfeeds](https://www.coinfeeds.io/) (YC S21)
+- 💻 COS 226/217 Lab Teaching Assistant
 - 🗞️ Building [Today @ Princeton](https://chrome.google.com/webstore/detail/today-princeton/iejdjhiphonjpgaobmpniifeipiomgee), a new tab page that gets students the daily information they need
 - 🗺️ Developing [TigerMap](https://cos333tigermap.herokuapp.com/), the first course exploration and track creation web app
 
