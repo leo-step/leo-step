@@ -7,20 +7,19 @@
 
 ---
 
-I am an undergraduate student at Princeton University pursuing computer science with minors in finance and machine learning. As an aspiring entrepreneur, I strive to develop solutions at the intersection of cutting-edge technology and human needs.
+I am an undergraduate student at Princeton University pursuing computer science with minors in machine learning, finance, and entrepreneurship. As an aspiring founder, I strive to develop solutions at the intersection of cutting-edge technology and human needs.
 
 #### CURRENTLY
 - 🎓 Student at Princeton University (COS '25)
-- 📊 Data science intern at [Coinfeeds](https://www.coinfeeds.io/) (YC S21)
+- 🍃 App & UI/UX Developer at [Boreas](https://boreas.eco/)
 - 💻 COS 226/217 lab teaching assistant
-- 🗞️ Building [Today @ Princeton](https://chrome.google.com/webstore/detail/today-princeton/iejdjhiphonjpgaobmpniifeipiomgee), a new tab page that gets students the daily information they need
-- 🗺️ Developing [TigerMap](https://cos333tigermap.herokuapp.com/), the first course exploration and track creation web app
+- 🏗️ Building [Today @ Princeton](https://chrome.google.com/webstore/detail/today-princeton/iejdjhiphonjpgaobmpniifeipiomgee) and [TigerMap](https://cos333tigermap.herokuapp.com/)
 
 #### BIO
-- 🧠 Interested in blockchain and machine learning with experience in computer vision
+- 📊 Machine learning intern at [Coinfeeds (YC S21)](https://www.coinfeeds.io/) - Spring 2023
 - 🛠️ Former Co-Director of Development at [Princeton ResInDe](https://www.princetonresinde.com/)
 - 👨‍💻 Second largest contributor to [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/), a popular coding interview prep website
-- 🖥️ Software engineering intern at [TrueToForm](https://www.truetoform.fit/) (Summer 2022)
+- 🖥️ Software engineering intern at [TrueToForm](https://www.truetoform.fit/) - Summer 2022
 - 🔬 Independent research student at the [NYU AI4CE lab](https://ai4ce.github.io/) for 3 years
 - 🏆 Member of the champion team in the 2021 MathWorks Math Modeling Challenge ([paper](https://m3challenge.siam.org/sites/default/files/uploads/CHAMPION_14817.pdf))
 - 📐 Alumnus of the NJ Governor's School of Engineering and Technology ([paper](https://ieeexplore.ieee.org/document/9668909))
