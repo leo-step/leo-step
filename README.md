@@ -7,7 +7,7 @@
 
 ---
 
-I'm a sophomore at Princeton University studying computer science with minors in machine learning, finance, and entrepreneurship. As an aspiring founder, I strive to develop solutions at the intersection of cutting-edge technology and human needs.
+I'm a sophomore at Princeton University studying computer science with minors in machine learning, entrepreneurship, and finance. As an aspiring founder, I strive to develop solutions at the intersection of cutting-edge technology and human needs.
 
 #### CURRENTLY
 - 🎓 Student at Princeton University (COS '25)
