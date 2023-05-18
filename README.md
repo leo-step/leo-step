@@ -7,19 +7,19 @@
 
 ---
 
-I'm a sophomore at Princeton University studying computer science with minors in machine learning, entrepreneurship, and finance. As an aspiring founder, I strive to develop solutions at the intersection of cutting-edge technology and human needs.
+I am an undergraduate student at Princeton University pursuing computer science with interests in machine learning and finance. As an aspiring entrepreneur, I strive to develop solutions at the intersection of cutting-edge technology and human needs.
 
 #### CURRENTLY
 - 🎓 Student at Princeton University (COS '25)
 - 🍃 App & UI/UX Developer at [Boreas](https://boreas.eco/)
-- 💻 COS 226/217 lab teaching assistant
 - 🏗️ Building [Today @ Princeton](https://chrome.google.com/webstore/detail/today-princeton/iejdjhiphonjpgaobmpniifeipiomgee) and [TigerMap](https://cos333tigermap.herokuapp.com/)
 
 #### BIO
 - 📊 Machine learning intern at [Coinfeeds (YC S21)](https://www.coinfeeds.io/) - Spring 2023
-- 🛠️ Former Co-Director of Development at [Princeton ResInDe](https://www.princetonresinde.com/)
+- 💻 COS 226/217 lab teaching assistant
 - 👨‍💻 Second largest contributor to [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/), a popular coding interview prep website
 - 🖥️ Software engineering intern at [TrueToForm](https://www.truetoform.fit/) - Summer 2022
+- 🛠️ Former Co-Director of Development at [Princeton ResInDe](https://www.princetonresinde.com/)
 - 🔬 Independent research student at the [NYU AI4CE lab](https://ai4ce.github.io/) for 3 years
 - 🏆 Member of the champion team in the 2021 MathWorks Math Modeling Challenge ([paper](https://m3challenge.siam.org/sites/default/files/uploads/CHAMPION_14817.pdf))
 - 📐 Alumnus of the NJ Governor's School of Engineering and Technology ([paper](https://ieeexplore.ieee.org/document/9668909))
